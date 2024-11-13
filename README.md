@@ -4,7 +4,7 @@
 ---
 ## Project Overview
 
-This project collects and analyses sales data from various regions, markets, and stores. The goal is to provide insights into revenue, units sold, line of business, products, stores and markets over different periods. The analysis focuses on understanding revenue trends and sales performance across regions, stores, and markets and calculating key metrics such as average revenue by region using a pivot table.
+This project collects and analyses sales data from various regions, markets, and stores. The goal is to provide insights into revenue, units sold, line of business, products, stores and markets over different periods(2014 - 2015). The analysis focuses on understanding revenue trends and sales performance across regions, stores, and markets and calculating key metrics such as average revenue by region.
 
 ---
 ## Data Sources
